@@ -1,0 +1,58 @@
+{
+  "batch_number": 3,
+  "total_batches": 3,
+  "batch_data": {
+    "batch_metadata": {
+      "batch_number": 3,
+      "total_batches": 3,
+      "issues_in_batch": 3,
+      "global_start": 7,
+      "global_end": 9,
+      "processed_at": "2026-05-21 09:37:46"
+    },
+    "jira_issues": [
+      {
+        "key": "ADAWC-41163",
+        "summary": "Smart Display module check - Merina13X, Merina16, MerinaW14 &amp; MerinaW16 platforms",
+        "issuetype": "Story",
+        "status": "Closed",
+        "priority": "None",
+        "created": "2026-01-06T09:31:52.000+0000",
+        "updated": "2026-02-03T05:00:40.000+0000",
+        "assignee_displayname": "Raghavender Bulusu",
+        "assignee_emailaddress": "raghavender.bulusu@hp.com",
+        "project_id": "37211",
+        "project_key": "ADAWC",
+        "project_name": "ADA-WinClient"
+      },
+      {
+        "key": "ADAWC-36354",
+        "summary": "Smart Display GIF: Instead of f8 and f9 the look to control is displaying F3 and F4",
+        "issuetype": "Story",
+        "status": "IceBox",
+        "priority": "Low",
+        "created": "2025-10-06T06:08:29.000+0000",
+        "updated": "2025-12-23T18:00:24.000+0000",
+        "assignee_displayname": "Youngseon Couch",
+        "assignee_emailaddress": "youngseon.couch@hp.com",
+        "project_id": "37211",
+        "project_key": "ADAWC",
+        "project_name": "ADA-WinClient"
+      },
+      {
+        "key": "ADAWC-41324",
+        "summary": "Smart Display exe should be running in background",
+        "issuetype": "Story",
+        "status": "Closed",
+        "priority": "High",
+        "created": "2026-01-13T15:46:15.000+0000",
+        "updated": "2026-02-16T04:19:43.000+0000",
+        "assignee_displayname": "Shikha Shree .",
+        "assignee_emailaddress": "shikha1@hp.com",
+        "project_id": "37211",
+        "project_key": "ADAWC",
+        "project_name": "ADA-WinClient"
+      }
+    ]
+  }
+}
