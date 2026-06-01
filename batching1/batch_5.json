@@ -1,0 +1,25 @@
+{
+  "batch_number": 5,
+  "total_batches": 9,
+  "batch_data": {
+    "batch_metadata": {
+      "batch_number": 5,
+      "total_batches": 9,
+      "issues_in_batch": 1,
+      "global_start": 5,
+      "global_end": 5,
+      "processed_at": "2026-06-01 09:51:27"
+    },
+    "jira_issues": [
+      {
+        "key": "HPXWC-41166",
+        "summary": "Smart Display module check - Lampa14, Lampa16, LampaW14, LampaW16 platforms",
+        "issuetype": "Story",
+        "status": "Closed",
+        "priority": "None",
+        "created": "2026-01-06T09:35:58.000+0000",
+        "updated": "2026-01-19T10:22:14.000+0000"
+      }
+    ]
+  }
+}
