@@ -1,0 +1,25 @@
+{
+  "batch_number": 3,
+  "total_batches": 9,
+  "batch_data": {
+    "batch_metadata": {
+      "batch_number": 3,
+      "total_batches": 9,
+      "issues_in_batch": 1,
+      "global_start": 3,
+      "global_end": 3,
+      "processed_at": "2026-06-01 09:51:07"
+    },
+    "jira_issues": [
+      {
+        "key": "HPXWC-41155",
+        "summary": "[Smart Display] Design and implement onboarding tips (tutorial modal pop up) for commercial",
+        "issuetype": "Story",
+        "status": "Closed",
+        "priority": "High",
+        "created": "2026-01-06T06:10:19.000+0000",
+        "updated": "2026-02-24T12:25:03.000+0000"
+      }
+    ]
+  }
+}
