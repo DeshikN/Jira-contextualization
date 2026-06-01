@@ -1,0 +1,25 @@
+{
+  "batch_number": 2,
+  "total_batches": 9,
+  "batch_data": {
+    "batch_metadata": {
+      "batch_number": 2,
+      "total_batches": 9,
+      "issues_in_batch": 1,
+      "global_start": 2,
+      "global_end": 2,
+      "processed_at": "2026-06-01 09:50:57"
+    },
+    "jira_issues": [
+      {
+        "key": "HPXWC-40679",
+        "summary": "Handle keyboard layout for all commercial systems for Smart Display",
+        "issuetype": "Story",
+        "status": "Closed",
+        "priority": "None",
+        "created": "2025-12-12T12:12:58.000+0000",
+        "updated": "2026-01-05T06:24:48.000+0000"
+      }
+    ]
+  }
+}
